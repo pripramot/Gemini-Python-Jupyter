@@ -1,3 +1,6 @@
-# Gemini-Python-Jupyter
+## Gemini-Python-Jupyter
 
-[Duet AI] (./vscode.mpg)
+
+
+![Pripramot_vscode](./Pripramot_vscode.png)
+
