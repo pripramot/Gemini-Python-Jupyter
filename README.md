@@ -1,4 +1,4 @@
-## Gemini-Python-Jupyter
+## Gemini-Python-Jupyter and DuetAI🦋vscode
 
 
 
