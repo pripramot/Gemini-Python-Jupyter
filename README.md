@@ -1,3 +1,5 @@
+# ⛩️Pripramot Wechabut🔽
+
 ## Gemini-Python-Jupyter and DuetAI🦋vscode
 
 
