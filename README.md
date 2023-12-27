@@ -1,4 +1,4 @@
-# ⛩️Pripramot Wechabut🔽
+# ⛩️ปรีดิ์ปราโมทย์ เวชบุตร🔽
 
 ## Gemini-Python-Jupyter and DuetAI🦋vscode
 
